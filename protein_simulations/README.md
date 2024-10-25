@@ -10,6 +10,5 @@ bash install.sh
 
 The `utils` folder contains custom force fields for creating patched spheres, where patches attract one another and spheres repel one another. The `simulation_scripts` folder contains the scripts used to run polychrom simulations. 
 The `analysis_scripts` folder contains scripts for analyzing the output of polychrom simulations, including calculating
-mean squared displacements of proteins as a function of time and computing the cluster size distribution. The `notebooks`
-folder contains a jupyter notebook to plot the main text and supplemental figures associated with protein simulations.
+mean squared displacements of proteins as a function of time and computing the cluster size distribution. 
 
